@@ -57,13 +57,6 @@ This project is a clone of the npmjs.com website, built using React, Tailwind CS
 
 This project uses the official npm registry API. The base URL for API requests is `https://registry.npmjs.org`.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
