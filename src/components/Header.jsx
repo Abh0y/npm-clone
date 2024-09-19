@@ -9,7 +9,7 @@ function Header() {
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex gap-2 items-center">
           <Link to="/">
-            <img src="/public/iconnvg2.png" alt="Logo" className="w-20 ml-4" />
+            <img src="/iconnvg2.png" alt="Logo" className="w-20 ml-4" />
           </Link>
         </div>
         <div className="">
